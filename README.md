@@ -1,4 +1,4 @@
-# Add Roles to Gallery JSON
+# Magento 2 - Add Roles to Gallery JSON
 
 This repo serves as an example of how to add gallery roles to the Magento 2 product gallery JSON.
 
