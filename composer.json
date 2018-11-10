@@ -1,0 +1,16 @@
+{
+    "name": "loganstellway/module-catalog-gallery-roles",
+    "description": "Example of how to add gallery roles to the gallery JSON output.",
+    "type": "magento2-module",
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "LoganStellway\\CatalogGalleryRoles\\": ""
+        }
+    },
+    "require": {
+        "magento/framework": "^100.1.0|101.0.*"
+    }
+}
